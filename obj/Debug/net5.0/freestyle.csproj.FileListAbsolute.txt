@@ -1,0 +1,16 @@
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.exe
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.deps.json
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.runtimeconfig.json
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.runtimeconfig.dev.json
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.dll
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\ref\freestyle.dll
+C:\Users\HP\desktop\freestyle\bin\Debug\net5.0\freestyle.pdb
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.csproj.AssemblyReference.cache
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.AssemblyInfoInputs.cache
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.AssemblyInfo.cs
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.csproj.CoreCompileInputs.cache
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.dll
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\ref\freestyle.dll
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.pdb
+C:\Users\HP\desktop\freestyle\obj\Debug\net5.0\freestyle.genruntimeconfig.cache
